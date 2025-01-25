@@ -13,7 +13,6 @@ The **SEO Analyzer Application** is a web-based tool built using Streamlit to ev
 - [Usage](#usage)
 - [Components](#components)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ---
 
