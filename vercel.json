@@ -4,7 +4,7 @@
        { "src": "Main-App.py", "use": "@vercel/node" }
     ],
     "routes": [
-       { "src": "/(.*)", "dest": "/Main-App.py" }
+       { "src": "/(.*)", "dest": "Main-App.py" }
     ]
  }
  
